@@ -1,0 +1,57 @@
+body{
+    background: cover;
+}
+.imag{
+    width: 300px;
+}
+#one{
+    font-size: 35px;
+   font-family:cursive ;
+   color: rgb(173, 74, 173);
+}
+#two{
+    font-size: 35px;
+   font-family:cursive ;
+   color: rgb(109, 109, 233);
+}
+#three{
+    font-size: 35px;
+   font-family:cursive ;
+   color: rgb(173, 74, 173);
+}
+#four{
+    font-size: 35px;
+   font-family:cursive ;
+   color: rgb(109, 109, 233);
+}
+#five{
+    font-size: 35px;
+   font-family:cursive ;
+   color: rgb(173, 74, 173);
+}
+
+.infor{
+    font-size: 30;
+    font-family: cursive;
+    color: rgb(255, 0, 170);
+   
+}
+.copy_right_footer{
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color:turquoise;
+    line-height:20px;
+    text-align: center;
+    
+}
+#decor{
+color: rgb(83, 0, 104);
+}
+
+#fur{
+    font-size: 30;
+    font-family: cursive;
+    color: rgb(85, 192, 69);
+}
